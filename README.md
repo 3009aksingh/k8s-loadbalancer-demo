@@ -28,11 +28,11 @@ Refresh 🔄 → the pod name may change.
 
 ## 🎥 Demo Preview
 
-Short video demonstrating Kubernetes Service load balancing.
+Short video demonstrating Kubernetes Service load balancing.  
 Each refresh may hit a different backend pod.
 
-    <video src="assets/demo.mp4" controls autoplay loop muted></video>
-
+▶️ **Watch demo video**  
+https://github.com/3009aksingh/k8s-loadbalancer-demo/raw/main/assets/demo.mp4
 
 ## 🌍 Live Demo (Temporary)
 
