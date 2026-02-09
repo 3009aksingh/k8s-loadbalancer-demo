@@ -26,6 +26,14 @@ Refresh 🔄 → the pod name may change.
 
 ---
 
+## 🎥 Demo Preview
+
+Short video demonstrating Kubernetes Service load balancing.
+Each refresh may hit a different backend pod.
+
+    <video src="assets/demo.mp4" controls autoplay loop muted></video>
+
+
 ## 🌍 Live Demo (Temporary)
 
 ⚠️ This demo is exposed using **Cloudflare Tunnel (Quick Tunnel)**.  
